@@ -10,7 +10,7 @@ https://htmlacademy.ru/blog/education/collections/hot-keys
 |Python от Microsoft||
 |pylint|статический анализатор кода|
 
-|[Горячие клавиши VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
+||[Горячие клавиши VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
 |--------|---------------------------------------------------------------------------------------|
 |Ctrl + B|показать/скрыть боковую панель|
 |Ctrl + `|включить/выключить терминал|
@@ -18,7 +18,7 @@ https://htmlacademy.ru/blog/education/collections/hot-keys
 |Ctrl + Shift + \|перейти к парной скобке|
 |Alt + ↑ / ↓|поменять строки местами|
 |F2|переименовать переменную глобально везде, где она встречается|
-|![Переименование переменных по F2](media/f2.gif)|
+||![Переименование переменных по F2](media/f2.gif)|
 |F5|запустить отладку|
 |F10||
 |F11||
