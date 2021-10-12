@@ -1,6 +1,7 @@
 <H2 align="center">Настройка VSCode<br><font size=2>для использования с Python и Django</font></H2>
 <br><br>
 <br>Перед установкой VSCode нужно установить Python. Смотрите подробную инструкцию <a href="https://python-scripts.com/install-python-windows">как это сделать</a><br>
+<br><br>
 <table>
 <tr><th colspan="2" style="text-align:center">Плагины для VSCode</th></tr>
   <tr><td><code>Python от Microsoft</code></td><td align="justify">поддержка языка Python, включая такие функции, как IntelliSense (Pylance), линтинг, отладка, навигация по коду, форматирование кода, рефакторинг, проводник переменных, обозреватель тестов...</td></tr>
