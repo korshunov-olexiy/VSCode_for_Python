@@ -16,7 +16,7 @@
 
 <table>
 <tr><th colspan="2"><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Горячие клавиши VSCode <img src="media/links.png" /></a></th></tr>
-<tr><td><code><code>Ctrl<.code>+<code>+/-</code> или <code>Ctrl+J</code></td><td>увеличить/уменьшить размер шрифта окна редактора и интерфейса</td></tr>
+<tr><td><code><code>Ctrl<code>+<code>+/-</code> или <code>Ctrl+J</code></td><td>увеличить/уменьшить размер шрифта окна редактора и интерфейса</td></tr>
 <tr><td><code><code>Ctrl+`</code> или <code>Ctrl+J</code></td><td>включить/выключить терминал</td></tr>
 <tr><td><code>Ctrl+/</code></td><td>комментировать/раскоментировать строки</td></tr>
 <tr><td><code>Ctrl+Shift+\</code><td>перейти к парной скобке</td></tr>
