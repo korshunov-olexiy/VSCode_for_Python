@@ -18,8 +18,6 @@
 
 <table>
 <tr><th colspan="2"><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Горячие клавиши VSCode <img src="media/links.png" /></a></th></tr>
-<tr><td colspan="2"><font size=2>Для того, чтобы настроить свои "горячие клавиши" откройте "Файл"-"Настройки"-"Сочетания клавиш"</font><br><img src="media/hotkeys_settings.png" /></td></tr>
-<tr><td><code>Ctrl+B</code></td><td>показать/скрыть боковую панель</td></tr>
 <tr><td><code><code>Ctrl+`</code> или <code>Ctrl+J</code></td><td>включить/выключить терминал</td></tr>
 <tr><td><code>Ctrl+/</code></td><td>комментировать/раскоментировать строки</td></tr>
 <tr><td><code>Ctrl+Shift+\</code><td>перейти к парной скобке</td></tr>
@@ -30,4 +28,6 @@
 <tr><td><code>F10</code><td>шаг с обходом</td></tr>
 <tr><td><code>F11</code><td>шаг с заходом</td></tr>
 <tr><td><code>F12</code><td>Иногда непонятно, откуда взялась переменная.<code>F12</code> переместит курсор к объявлению выделенной переменной, функции или метода, даже если они объявлены в другом файле</td></tr>
+<tr><td colspan="2"><font size=2>Для того, чтобы настроить свои "горячие клавиши" откройте "Файл"-"Настройки"-"Сочетания клавиш"</font><br><img src="media/hotkeys_settings.png" /></td></tr>
+<tr><td><code>Ctrl+B</code></td><td>показать/скрыть боковую панель</td></tr>
 </table>
