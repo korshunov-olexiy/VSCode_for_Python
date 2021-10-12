@@ -11,7 +11,7 @@ https://htmlacademy.ru/blog/education/collections/hot-keys
 |pylint|статический анализатор кода|
 
 ||[Горячие клавиши VSCode](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)|
-|--------|---------------------------------------------------------------------------------------|
+:-: | -----------:
 |Ctrl + B|показать/скрыть боковую панель|
 |Ctrl + `|включить/выключить терминал|
 |Ctrl + /|комментировать/раскоментировать строки|
