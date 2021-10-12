@@ -5,7 +5,7 @@
   <tr><td><code>Python от Microsoft</code></td><td align="justify">поддержка языка Python, включая такие функции, как IntelliSense (Pylance), линтинг, отладка, навигация по коду, форматирование кода, рефакторинг, проводник переменных, обозреватель тестов...</td></tr>
   <tr><td><code>pylint</code></td><td>статический анализатор кода</td></tr>
   <tr><td><code>Russian Language Pack</code></td><td>Русификация VSCode</td></tr>
-  <tr><td><code>Django</code><br><code>(Baptiste Darthenay)</code></td><td><img src="media/django_extension.png" width=30%><br>Имеет полезные подсказки: <img src="media/django_extension_working.png"></td></tr>
+  <tr><td><code>Django</code><br><code>(Baptiste Darthenay)</code><br><img src="media/django_extension.png" width=15%></td><td><br>Имеет полезные подсказки: <img src="media/django_extension_working.png"></td></tr>
   <tr><td><code>Bracket Pair Colorizer 2</code></td><td>подсвечивает парные скобочки</td></tr>
   <tr><td><code>Night Owl</code>,<br><code>Material Icon Theme</code>,<br><code>Atomize (Atom One Dark theme</code></td><td>Неплохие цветовые темы и значки</td></tr>
   <tr><td><code></code></td><td></td></tr>
