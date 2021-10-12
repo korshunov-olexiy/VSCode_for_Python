@@ -6,7 +6,7 @@
 https://htmlacademy.ru/blog/education/collections/hot-keys
 
 |Плагины для VSCode|
----------------------
+|------------------|
 |Python от Microsoft||
 |pylint|статический анализатор кода|
 
